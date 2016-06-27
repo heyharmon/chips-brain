@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--author: heyharmon-->
+<!--licence: Standard-->
+<!--created with: GaitoBot AIML Editor V2.7.0.37793-->
+
+<category>
+	<pattern>NEW CAR</pattern>
+	<template>I'm glad you found your dream car! Are you ready to apply, or would you like to get pre-qualified? Maybe you are curious about our rates, or you don't know yet how much car you can afford? If you don't know where to start, that's okay too, I can help you!</template>
+</category>
+
+<category>
+	<pattern>I WANT A NEW CAR</pattern>
+	<template><srai>new car</srai></template>
+</category>
+
+<category>
+	<pattern>I NEED A NEW CAR</pattern>
+	<template><srai>new car</srai></template>
+</category>
+
+<category>
+	<pattern>USED CAR</pattern>
+	<template>I'd love to help you find the car that's right for you. Do you want to get pre-qualified, or find out about our rates first? Perhaps you don't know how much car you can afford, or you just don't know where to start?</template>
+</category>
+
+<category>
+	<pattern>I WANT A USED CAR</pattern>
+	<template><srai>new car</srai></template>
+</category>
+
+<category>
+	<pattern>I NEED A USED CAR</pattern>
+	<template><srai>used car</srai></template>
+</category>
+<category>
+	<pattern>REFINANCE</pattern>
+	<template>Great! Let's find out how much you can save. Are you ready to apply for refinancing, or do you want to pre-qualify? Perhaps you are just curious about how much you can save, or you might just be lost about where to start?</template>
+</category>
+
+<category>
+	<pattern>I WANT TO REFINANCE</pattern>
+	<template><srai>refinance</srai></template>
+</category>
+
+<category>
+	<pattern>I NEED TO REFINANCE</pattern>
+	<template><srai>refinance</srai></template>
+</category>
+</aiml>
